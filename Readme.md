@@ -1,4 +1,4 @@
-# Microservicio para Camas & Camilleros
+# Microservicio para Camas
 
 ## Descripcion Camas
 Este microservicio se encarga de gestionar las solicitudes de camas, cuando se realiza una solicitud de cama se espera que el servicio de una respuesta a esa solicitud.
